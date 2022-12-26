@@ -202,7 +202,7 @@ int max = Max(Max(a1,b1,c1),Max(a2,b2,c2),Max(a3,b3,c3));
 
 Console.WriteLine(max);
 
-# 8 Массив
+# 9 Массив
 
 int Max(int arg1,int arg2,int arg3)
 {
@@ -222,7 +222,7 @@ int result = Max (
 );
 Console.WriteLine(result);
 
-# 9 Поиск позиции нужного элемента
+# 10 Поиск позиции нужного элемента
 
 int[] array = {1,26,53,54,15,66,75,84,98};
 
@@ -243,7 +243,7 @@ while (index < n)
 }
  Console.WriteLine(index);
  
- # 10 Берем метод, Передаем в него массив, Заполняем нужны колличеством элементов
+ # 11 Берем метод, Передаем в него массив, Заполняем нужны колличеством элементов
  
  void FillArray(int[] collection) 
 
