@@ -45,7 +45,7 @@ FillArray(array);
 PrintArray(array);
 Console.WriteLine();
 
-int pos = indexOf(array, [4]);
+int pos = indexOf(array, 4);
 Console.WriteLine(pos);
 
 // ошибка в коде пересмотреть урок 2 знакомство с функциями и массивами
